@@ -2,7 +2,7 @@
 Python scripts for POI import in Volkswagen Discover systems (MIB)
 
 ## intro
-Installabe custom POI collections for VW Discover Pro and Discover Media can be generated at [Nav Companion](http://www.volkswagen-nav-companion.de/mib/ppoi/).
+Installabe custom POI collections for VW Discover Pro and Discover Media can be generated with Volkswagen's [Nav Companion](http://www.volkswagen-nav-companion.de/mib/ppoi/) site.
 
 Small fixes like names, icons or e.g. 'warnable' settings can be done directly
 for installable package files, but if might require correction of given
@@ -12,7 +12,7 @@ A script checks these values to assist proper editing.
 
 ## usage
 This script is implemented with Python 3.6, and should work well with version
->=3.4. With some minor issues in print formatting it works also with recent
+\>=3.4. With some minor issues in print formatting it works also with recent
 Python 2.7 releases.
 
 ```shell
