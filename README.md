@@ -2,7 +2,7 @@
 Python scripts for POI import in Volkswagen Discover systems (MIB)
 
 ## intro
-Installabe custom POI collections for VW Discover Pro and Discover Media can be generated with Volkswagen's [Nav Companion](http://www.volkswagen-nav-companion.de/mib/ppoi/) site.
+Custom installable POI collections for VW Discover Pro and Discover Media can be generated with Volkswagen's [Nav Companion](http://www.volkswagen-nav-companion.de/mib/ppoi/) site.
 
 Small fixes like names, icons or e.g. 'warnable' settings can be done directly
 for installable package files, but if might require correction of given
